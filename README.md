@@ -1,1 +1,1 @@
-# PromptDiagnostics
+# LLMs Prompting Style
